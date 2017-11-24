@@ -1,4 +1,4 @@
-package com.lenovo.yangww4.ch5_2_2;
+package com.lenovo.yangww4.springbootcore;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

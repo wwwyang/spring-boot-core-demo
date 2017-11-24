@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lenovo.yangww4</groupId>
-	<artifactId>spring-boot-core-demo</artifactId>
+	<artifactId>ch5_2_2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-boot-core-demo</name>
+	<name>ch5_2_2</name>
 	<description> Spring Boot Setup Demo</description>
 
 	<parent>
