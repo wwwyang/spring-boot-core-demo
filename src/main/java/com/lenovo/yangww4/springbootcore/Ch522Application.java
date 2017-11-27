@@ -21,7 +21,7 @@ public class Ch522Application {
 
 	@RequestMapping("/")
 	String index() {
-		return "Hello , Spring Boooooooooooooooooooooooooooooooooooooooooooot!!!!!!!!<br>" + "bookName is: <<" + bookName + ">>,<br/> author is: [" + bookAuthor + "]";
+		return "Hello , Spring Boooooooooooooooooooooooooooooooooooooooooooot!!!!!!!!<br>" + "bookName is: [" + bookName + "],<br/> author is: [" + bookAuthor + "]";
 	}
 
 	public static void main(String[] args) {
